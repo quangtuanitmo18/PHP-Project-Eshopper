@@ -1,0 +1,17 @@
+web (thiết kế database, figma, wrireframe, sass)
+cấu trúc dữ liệu và giải thuật
+tiếng anh
+kiến trúc máy tính
+mạng máy tính
+hệ điều hành
+cácc loại toán (rời rạc, xác suất thống kê)
+bảo mật máy tính, bảo mật web
+ml
+
+
+lộ trình học web sau khi học hoàn thiện đồ án (thêm đồ án làm phim nữa) + wordspress (học lại js)
+
+
+học js cơ bản, nâng cao trong hỏi dân it (thực chiến html css 21 ngày) -> node js cơ bản -> react js cơ bản -> sau đó đên khóa fullstack developer
++ kết hợp học tiếng anh thường xuyên
+ 
